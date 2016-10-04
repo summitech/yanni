@@ -12,3 +12,6 @@ It provides a way to create a HTML form that you can just copy and paste into yo
 # Usage
 ```<iframe src="path/to/yanni-dir/app.html" height="700" width="1350" marginheight="5" marginwidth="5"></iframe>```
 
+# Demo
+https://summitech.github.io/yanni/
+
