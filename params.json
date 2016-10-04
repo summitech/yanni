@@ -1,0 +1,6 @@
+{
+  "name": "Yanni",
+  "tagline": "A drag-and-drop form builder based off layoutit.com bootstrap's page builder ",
+  "body": "<iframe src=\"app.html\" height=\"700\" width=\"1350\" marginheight=\"5\" marginwidth=\"5\"></iframe>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
