@@ -1,6 +1,6 @@
 {
   "name": "Yanni",
   "tagline": "A drag-and-drop form builder based off layoutit.com bootstrap's page builder ",
-  "body": "<iframe src=\"app.html\" height=\"700\" width=\"1350\" marginheight=\"5\" marginwidth=\"5\"></iframe>",
+  "body": "# yanni\r\nA drag-and-drop form builder based off layoutit.com bootstrap's page builder.\r\n\r\nIt provides a way to create a HTML form that you can just copy and paste into your application.\r\n\r\n\r\n# Dependencies\r\n* jQuery - http://jquery.com/\r\n* Bootstrap - http://getbootstrap.com/\r\n* Select2 - https://select2.github.io/\r\n\r\n# Usage\r\n```<iframe src=\"path/to/yanni-dir/app.html\" height=\"700\" width=\"1350\" marginheight=\"5\" marginwidth=\"5\"></iframe>```\r\n\r\n<iframe src=\"app.html\" height=\"700\" width=\"1350\" marginheight=\"5\" marginwidth=\"5\"></iframe>\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
